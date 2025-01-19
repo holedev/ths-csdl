@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="6xRrUCBPtQCPAdvizPN7">
-    <mxGraphModel dx="1784" dy="2481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1007" dy="2607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,7 +280,7 @@
         <mxCell id="LdxnCqDQkZrAlfchqpRL-6" value="CuaHang_NguyenLieu" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="-1400" width="140" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="LdxnCqDQkZrAlfchqpRL-7" value="- &lt;u&gt;maCH&lt;/u&gt;: int&lt;div&gt;- &lt;u&gt;maNL&lt;/u&gt;: int&lt;/div&gt;&lt;div&gt;- soLuong: float&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="LdxnCqDQkZrAlfchqpRL-6" vertex="1">
+        <mxCell id="LdxnCqDQkZrAlfchqpRL-7" value="- &lt;u&gt;maCH&lt;/u&gt;: int&lt;div&gt;- &lt;u&gt;maNL&lt;/u&gt;: int&lt;/div&gt;&lt;div&gt;- soLuongTon: float&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="LdxnCqDQkZrAlfchqpRL-6" vertex="1">
           <mxGeometry y="26" width="140" height="64" as="geometry" />
         </mxCell>
         <mxCell id="LdxnCqDQkZrAlfchqpRL-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="LdxnCqDQkZrAlfchqpRL-6" vertex="1">
